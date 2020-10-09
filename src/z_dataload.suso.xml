@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOBJ>
+    <OBJCT>Z_DATALOAD</OBJCT>
+    <FIEL1>ACTVT</FIEL1>
+    <OCLSS>ZDL</OCLSS>
+   </TOBJ>
+   <TOBJT>
+    <LANGU>E</LANGU>
+    <OBJECT>Z_DATALOAD</OBJECT>
+    <TTEXT>Data load</TTEXT>
+   </TOBJT>
+   <TOBJVORFLG>
+    <OBJCT>Z_DATALOAD</OBJCT>
+   </TOBJVORFLG>
+   <TACTZ>
+    <TACTZ>
+     <BROBJ>Z_DATALOAD</BROBJ>
+     <ACTVT>16</ACTVT>
+    </TACTZ>
+   </TACTZ>
+  </asx:values>
+ </asx:abap>
+</abapGit>
